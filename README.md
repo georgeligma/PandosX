@@ -8,3 +8,7 @@ Check out the dev betas branch for in-develop versions of pandosX (currently una
 (currently no releases)
 Intel = Apple
 Thanks for checking out pandos🧡🧡
+made with
+![python](https://github.com/georgeligma/ts/blob/2259621095e8c292f4ac72aecb14b775b20b7e5f/ji.png)
+
+python
