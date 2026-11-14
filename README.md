@@ -1,4 +1,4 @@
-
+![panda](https://github.com/georgeligma/ts/blob/4cdb853daf393963de504a6aba5732631d7285a9/pandosXtiny.png)
 
 hallo 🧡 Welcome to pandosX! A project porting Intel versions of Mac OS X to M series CPUs.
 This consists of Injecting kernel modifiers, Special CPU architecture drivers, Camera drivers, Microphone drivers, USB drivers, Audio drivers, and iGPU driver. No post-installs for drivers.
