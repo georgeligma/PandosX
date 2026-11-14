@@ -10,3 +10,4 @@ Intel = Apple
 Thanks for checking out pandos🧡🧡
 
 w fanart
+![fanart](https://github.com/georgeligma/ts/blob/0996bc8746e4826b6ab617fa3d0489161ac30591/IMG_4146.jpeg)
