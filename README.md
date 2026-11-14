@@ -1,2 +1,2 @@
-![image_alt](https://github.com/georgeligma/pandosX/blob/a957d55a3ff1d4c2bc14071fc1428208dde949fb/pandosX.psd)
+![image_alt](https://github.com/georgeligma/pandosX/blob/0646b4fb22f662773e517cf2f51c1f4c635f3336/pandosX.png)
 hello
